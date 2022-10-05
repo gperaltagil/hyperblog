@@ -1,5 +1,6 @@
 Hola mi nombre es Gisel Peralta Gil
 
-Soy un desarrollador de aplicaciones web en java.
+Soy un desarrollador de aplicaciones web en javA.
+Actualmente estoy estudiando git.
 
 Saludos!
